@@ -1,0 +1,15 @@
+{
+  "name": "at-shader-school",
+  "version": "0.0.0",
+  "description": "exercises from stackgl/shader-school",
+  "main": "index.js",
+  "scripts": {
+    "dev": "shader-school",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "shader-school": "~1.1.0"
+  }
+}
